@@ -1,1 +1,1 @@
-# LearningGithut
+# LearningGithut only for learning
