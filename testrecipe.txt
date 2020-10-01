@@ -1,6 +1,7 @@
 Test Recipes files
 Hello
 Welcome
+<<<<<<< Updated upstream
 WElcome to mhy kitc1
 1
 23
@@ -8,3 +9,12 @@ WElcome to mhy kitc1
 3445
 4534
 
+=======
+WElcome to mhy kitchen
+23232323reerwe
+45
+45
+65678
+78785etdfgdfg
+fgdfgdfg
+>>>>>>> Stashed changes
